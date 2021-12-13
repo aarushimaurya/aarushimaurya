@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aarushi!
-- 👀 I’m interested in Coding, Web Development and Machine Learning.
+- 👀 I’m interested in Problem Solving, Web Development and Machine Learning.
 - 🌱 I’m currently honing my DSA skills.
 - 💞️ I like food, music, books and travelling.
 
