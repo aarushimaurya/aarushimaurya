@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Aarushi!
+- 🤓 I'm a Computer Science undergraduate.
 - 👀 I’m interested in Problem Solving, Web Development and Machine Learning.
 - 🌱 I’m currently honing my DSA skills.
-- 💞️ I like food, music, books and travelling.
+- 💛 I like food, music, books and travelling.
 
 <!---
 aarushimaurya/aarushimaurya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
