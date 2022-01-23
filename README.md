@@ -24,7 +24,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aarushimaurya&show_icons=true&locale=en&theme=radical" alt="aarushimaurya" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarushimaurya&show_icons=true&locale=en&layout=compact&theme=radical" alt="aarushimaurya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarushimaurya&show_icons=true&locale=en&layout=compact&theme=radical&hide=jupyter%20notebook" alt="aarushimaurya" /></p>
 
 
 
