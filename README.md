@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Aarushi</h1>
 <h3 align="center">I'm a Computer Science undergraduate</h3>
 
-- 🔭 I’m currently working on my **Problem Solving skills**
+- 🤓 I’m currently grinding **LeetCode**
 
 - 🌱 I’m currently learning **JavaScript, ReactJS**
 
