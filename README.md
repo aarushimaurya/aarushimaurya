@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aarushimaurya2707@gmail.com**
 
-- ⚡ I like **Food, music, books and travelling**
+- ⚡ I like **food, music, books and travelling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
