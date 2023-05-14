@@ -1,15 +1,15 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 0px height = 25 px>, I'm Aarushi</h1>
-<h3 align="center">I'm a Computer Science undergraduate</h3>
+<h3 align="center">I'm a Computer Science Graduate</h3>
 
-- 🤓 I’m currently grinding **LeetCode**
+<!--- 🤓 I’m currently grinding **LeetCode** -->
 
-- 🌱 I’m currently learning **JavaScript, ReactJS**
+<!-- - 🌱 I’m currently learning **JavaScript, ReactJS** -->
 
-- 🤝 I’m interested in **Web Development and Machine Learning**
+<!-- - 🤝 I’m interested in **Web Development and Machine Learning** -->
 
-- 📫 How to reach me **aarushimaurya2707@gmail.com**
+<!-- - 📫 How to reach me **aarushimaurya2707@gmail.com** -->
 
-- ⚡ I like **food, music, books and travelling**
+<!-- - ⚡ I like **food, music, books and travelling** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
